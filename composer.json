@@ -1,9 +1,13 @@
 {
     "name": "contao-components/swipe",
-    "type": "contao-component",
     "description": "A JavaScript touch slider with dot menu",
     "license": "MIT",
+    "type": "contao-component",
     "authors": [
+        {
+            "name": "Brad Birdsall",
+            "homepage": "https://github.com/thebird"
+        },
         {
             "name": "Leo Feyer",
             "homepage": "https://github.com/leofeyer"
